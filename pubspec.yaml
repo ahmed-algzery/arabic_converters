@@ -1,0 +1,25 @@
+name: arabic_converters
+description: A Flutter package for converting numbers between Arabic and English, and converting dates between Gregorian and Hijri calendars.
+version: 1.0.0
+homepage: https://github.com/ahmed-algzery/arabic_converters
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+topics:
+  - arabic
+  - hijri
+  - calendar
+  - converter
+  - numbers
+  - date
