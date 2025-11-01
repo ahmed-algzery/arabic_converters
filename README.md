@@ -144,4 +144,4 @@ Created with ❤️ by Ahmed Algzery
 
 ## Support 💬
 
-For issues, questions, or suggestions, please file an issue on the [GitHub repository](https://github.com/ahmed-algzery//arabic_converters).
+For issues, questions, or suggestions, please file an issue on the [GitHub repository](https://github.com/ahmed-algzery//arabic_converters).# arabic_converters
